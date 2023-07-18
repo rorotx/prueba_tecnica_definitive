@@ -1,0 +1,4 @@
+api_post_show:
+    path:       /api/exchange-rates
+    controller: App\Controller\ExchangeRatesController::index
+    methods:    GET
