@@ -6,5 +6,8 @@
 # Create key material if necessary.
 # npm run dev --prefix /var/www/html/public
 
+cd /var/www/html/public
+php artisan migrate
+
 # Run the main container command
 exec "$@"
