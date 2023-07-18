@@ -2,7 +2,7 @@
 
 - Install Docker
 
-## For run the application write this command in the console:
+## To run the application write this command in the console:
 - docker compose up
 
 Simple as that
